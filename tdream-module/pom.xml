@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<parent>
+		<groupId>com.teexue</groupId>
+		<artifactId>tdream</artifactId>
+		<version>${revision}</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>tdream-module</artifactId>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>tdream-module-quartz</module>
+		<module>tdream-module-message</module>
+		<module>tdream-module-monitor</module>
+    </modules>
+	
+</project>
