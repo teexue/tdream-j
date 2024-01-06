@@ -18,7 +18,7 @@ TDream AI 平台是一个基于 Spring Boot + Vue.js 的 AI 平台，旨在为 A
 4. 访问`http://localhost:3000`
 
 ## 引用的开源项目
-- [maku-boot](./license/MAKU)
+- [maku-boot](./licenses/MAKU)
 
 ## 开源协议
 [GPL-3.0 License](./LICENSE)

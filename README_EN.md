@@ -17,7 +17,7 @@ TDream AI Platform is an AI platform based on Spring Boot + Vue.js, which aims t
 4. Visit `http://localhost:3000`
 
 ## Open source projects used
-- [maku-boot](./license/MAKU)
+- [maku-boot](./licenses/MAKU)
 
 ## License
 [GPL-3.0 License](./LICENSE)
